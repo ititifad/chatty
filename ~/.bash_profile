@@ -1,3 +1,3 @@
 
-export SECRET_KEY="562951c7a02402428b1b779a683a19301fdd74d89763741e"
+export SECRET_KEY="10nyqt&s2ut40f5v-0joxq^r6ujvsp*pcse%-s=3ozbfb#n9h*"
 export DEBUG_VALUE="True"
